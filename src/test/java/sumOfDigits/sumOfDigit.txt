@@ -1,0 +1,5 @@
+Write code that should accept a number and return the sum of all the digits
+e.g.
+
+When input is 1205, it should return 1+2+0+5 = 8
+When input is -254, it should return 2+5+4 = 11
